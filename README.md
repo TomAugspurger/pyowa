@@ -18,3 +18,11 @@ Recent versions of
 ### Datasets
 
 - [MovieLens 100k](http://files.grouplens.org/datasets/movielens/ml-100k.zip) (zip)
+
+
+### Other Notebooks
+
+- [Skipper Seabold's 538 model](http://nbviewer.ipython.org/github/jseabold/538model/blob/master/silver_model.ipynb)
+- [Brian Keegan's Data Journalism](http://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb)
+- [Michael Waskom's Titanic Data Exploration](http://nbviewer.ipython.org/gist/mwaskom/8224591)
+
