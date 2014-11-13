@@ -15,10 +15,15 @@ Recent versions of
 - seaborn
 - statsmodels
 
+### Rendered Notebooks
+
+- [Movie Lens](http://nbviewer.ipython.org/github/tomaugspurger/pyowa/blob/master/MovieLens.ipynb)
+- [Flights](http://nbviewer.ipython.org/github/tomaugspurger/pyowa/blob/master/flights.ipynb)
+
 ### Datasets
 
 - [MovieLens 100k](http://files.grouplens.org/datasets/movielens/ml-100k.zip) (zip)
-
+- [Flights](https://github.com/TomAugspurger/pyowa/raw/master/flights.csv.gz)
 
 ### Other Notebooks
 
